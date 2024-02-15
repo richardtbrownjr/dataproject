@@ -1,5 +1,6 @@
 title:Richard Brown
-#logo: /assets/img/headshot_circle.png
+logo: /assets/img/headshot_circle.png
 #description: A home for data projects that I am developing
 show_downloads:true
 theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
