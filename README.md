@@ -6,6 +6,7 @@ Wake Technical Community College: Data Science and Programming Support Services
 
 ### Work Experience
 Knox St. Studios
+
 The North Carolina Institute of Minority Economic Development
 
 ### Projects
